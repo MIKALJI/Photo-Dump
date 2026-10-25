@@ -26,3 +26,9 @@ Random Photos of memories.
 
 </p>
 
+<p align=“center”>
+<image src="https://github.com/user-attachments/assets/3a223718-6dc3-4b42-8d60-03a07b960b40" />
+
+> Conchi and Mikalji
+
+</p>
